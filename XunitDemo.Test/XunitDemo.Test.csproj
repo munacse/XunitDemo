@@ -59,7 +59,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CalculatorTests.cs" />
+    <Compile Include="AssertingExceptions.cs" />
+    <Compile Include="AssertingNullBools.cs" />
+    <Compile Include="AssertingNumericResults.cs" />
+    <Compile Include="AssertingObjectTypes.cs" />
+    <Compile Include="AssertingRanges.cs" />
+    <Compile Include="AssertingStringResults.cs" />
+    <Compile Include="AsswertingCollections.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
